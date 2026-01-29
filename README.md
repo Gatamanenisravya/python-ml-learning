@@ -7,3 +7,8 @@ Day 2: Exploratory Data Analysis (EDA)
 - Handled missing values
 - Visualized key patterns
 - Performed feature engineering
+
+Day 3: First Machine Learning Model
+- Encoded categorical variables
+- Trained Logistic Regression model
+- Evaluated using classification metrics
