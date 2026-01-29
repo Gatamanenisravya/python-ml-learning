@@ -20,3 +20,8 @@ Day 4: Final Model Selection:
 
 Conclusion:
 Random Forest provided the best tradeoff between bias and variance and was selected as the final model.
+
+Day 5: Cross-Validation & Model Selection
+- Applied 5-fold cross-validation
+- Tuned Random Forest using GridSearchCV
+- Selected final model based on CV + test performance
